@@ -12,17 +12,28 @@ Ahora estoy armando **Zete**, mi marca de sistemas de gestión para gimnasios, a
 
 ## 🛠️ Tecnologías
 
-**Las que uso todos los días**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,sass,tailwind,mysql,laravel,react,git,postman" alt="Python, PHP, JavaScript, TypeScript, HTML, CSS, SASS(SCSS),TailwindCSS, MySQL, Laravel, React, Git, Postman">
-</p>
-
-**Las que estoy sumando**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,vue,docker,fastapi,postgres" alt="Node.js, Vue, Docker, FastAPI, PostgreSQL">
-</p>
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,php,laravel" alt="Python, PHP, Laravel"></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,tailwind" alt="JavaScript, TypeScript, React, HTML, CSS, Sass, Tailwind"></td>
+  </tr>
+  <tr>
+    <td><b>Bases de datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></td>
+  </tr>
+  <tr>
+    <td><b>Herramientas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,postman,vscode,sublime" alt="Git, Linux, Postman, VisualStudio, Sublime"></td>
+  </tr>
+  <tr>
+    <td><b>Aprendiendo</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,vue,postgres,docker" alt="Node.js, FastAPI, Vue, PostgreSQL, Docker"></td>
+  </tr>
+</table>
 
 ## 📂 Proyectos
 
