@@ -15,13 +15,13 @@ Ahora estoy armando **Zete**, mi marca de sistemas de gestión para gimnasios, a
 **Las que uso todos los días**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,git,linux,postman" alt="Python, PHP, JavaScript, HTML, CSS, MySQL, Git, Linux, Postman">
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,laravel,react,git,postman" alt="Python, PHP, JavaScript, HTML, CSS, MySQL, Laravel, React, Git, Postman">
 </p>
 
 **Las que estoy sumando**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,docker,postgres" alt="Laravel, React, Node.js, Docker, PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,postgres" alt="Node.js, Docker, PostgreSQL">
 </p>
 
 ## 📂 Proyectos
@@ -32,23 +32,23 @@ Ahora estoy armando **Zete**, mi marca de sistemas de gestión para gimnasios, a
       <a href="https://github.com/FacuSinis/CobraScout"><img src="assets/cards/cobrascout.png" alt="CobraScout, en producción"></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/FacuSinis/zete-membresias"><img src="assets/cards/membresias.png" alt="Zete Membresías, en desarrollo"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <a href="https://github.com/FacuSinis/zete-turnos"><img src="assets/cards/turnos.png" alt="Zete Turnos, en desarrollo"></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <img src="assets/cards/proximo-1.png" alt="Próximamente">
+      <a href="https://github.com/FacuSinis/zete-market"><img src="assets/cards/market.png" alt="Zete Market, proximamente"></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/FacuSinis/zete-gym"><img src="assets/cards/gym.png" alt="Zete Gym, proximamente"></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/cards/proximo-2.png" alt="Próximamente">
+      <a href="https://github.com/FacuSinis/zete-tasks"><img src="assets/cards/tasks.png" alt="Zete Tasks, proximamente"></a>
     </td>
     <td width="50%">
-      <img src="assets/cards/proximo-3.png" alt="Próximamente">
+      <a href="https://github.com/FacuSinis/zete-resto"><img src="assets/cards/resto.png" alt="Zete Resto, proximamente"></a>
     </td>
   </tr>
 </table>
