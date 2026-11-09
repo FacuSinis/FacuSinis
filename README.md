@@ -15,13 +15,13 @@ Ahora estoy armando **Zete**, mi marca de sistemas de gestión para gimnasios, a
 **Las que uso todos los días**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,laravel,react,git,postman" alt="Python, PHP, JavaScript, HTML, CSS, MySQL, Laravel, React, Git, Postman">
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,sass,tailwind,mysql,laravel,react,git,postman" alt="Python, PHP, JavaScript, TypeScript, HTML, CSS, SASS(SCSS),TailwindCSS, MySQL, Laravel, React, Git, Postman">
 </p>
 
 **Las que estoy sumando**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,postgres" alt="Node.js, Docker, PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=nodejs,vue,docker,fastapi,postgres" alt="Node.js, Vue, Docker, FastAPI, PostgreSQL">
 </p>
 
 ## 📂 Proyectos
